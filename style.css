@@ -1,0 +1,13 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    padding-top: 50px;
+  }
+  canvas{
+    margin: auto;
+    border: 10px solid rgb(56, 1, 62);
+    border-radius: 50px;
+  }
+  
+  
